@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad56ah
 <h1 align="center">Muhammad Ahmad </h1>
-<h2 align="center">Founder - Chief R&D i.CAMP | CS.CAMP | Computer Scientist  </h2>
+<h2 align="center">ACTUARY - ASPIRING SOFTWARE ENGINEER - Co-Founder THINKING SCHOOL   </h2>
 
 
 
@@ -22,11 +22,9 @@ An Entrepreneur & Educationist. <br><br>
 * Mechatronics Camp [MECHATRONICS.CAMP](https://MECHATRONICS.CAMP) (Live 2024-25)  🔄
 
 <br>
-
-[![Twitter](https://img.shields.io/badge/Twitter-%40iprashanth__-%231DA1F2)](https://twitter.com/iprashanth_) 
-[![Instagram](https://img.shields.io/badge/Instagram-prash.life-%23bc2a8d%09)](https://instagram.com/prash.life)
-[![Linkedin](https://img.shields.io/badge/Linked%20in-prashanthteja-blue)](https://www.linkedin.com/in/prashanthbm)
-[![Email](https://img.shields.io/badge/Email-prash@i.camp-red)](mailto:prash@i.camp)
+ 
+[![Linkedin](https://img.shields.io/badge/Linked%20in-MuhammadAhmad-blue)](https://www.linkedin.com/in/m-o-ahmad/)
+[![Email](https://img.shields.io/badge/Email-muahmad@g.ucla.edu-red)](mailto:muahmad@g.ucla.edu)
 
 
 <!--
