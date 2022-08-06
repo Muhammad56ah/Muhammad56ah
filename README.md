@@ -6,7 +6,8 @@
 
                                                                
 An Entrepreneur & Educationist. <br><br>
-Building Computer Sience applications (https://moahmad.xyz/).Passionate about coding , Innovation and wanna be the disruptor in the field of EDUCATION. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
+Building Computer Sience applications (https://moahmad.xyz/) 
+Passionate about coding , Innovation and wanna be the disruptor in the field of EDUCATION. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
 
 1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
 ### 💼 My On-Going Research Portfolio : 
