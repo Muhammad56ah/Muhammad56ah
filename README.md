@@ -8,8 +8,7 @@
 An Entrepreneur & Educationist. <br><br>
 Building Computer Sience applications (https://moahmad.xyz/) 
 Passionate about mathematics,coding , innovation and want to be a disruptor in the field of EDUCATION.
-
-1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
+ 
 <br>
  
 [![Linkedin](https://img.shields.io/badge/Linked%20in-MuhammadAhmad-blue)](https://www.linkedin.com/in/m-o-ahmad/)
