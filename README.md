@@ -6,7 +6,7 @@
 
                                                                
 An Entrepreneur & Educationist. <br><br>
-Building Computer Sience applications (https://moahmad.xyz/) 
+Building Computer Science applications (https://moahmad.xyz/) 
 Passionate about mathematics,coding , innovation and want to be a disruptor in the field of EDUCATION.
  
 <br>
