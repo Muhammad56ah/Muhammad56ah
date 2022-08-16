@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad56ah
 <h1 align="center">Muhammad Ahmad </h1>
-<h2 align="center">ACTUARY - ASPIRING SOFTWARE ENGINEER - Co-Founder THINKING SCHOOL   </h2>
+<h2 align="center">ACTUARY - TECH ENTHUSIAST - Co-Founder THINKING SCHOOL   </h2>
 
 
 
